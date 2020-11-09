@@ -1,6 +1,6 @@
 {
   "name": "discord-cmd-handler",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Allow all your discord bots commands to be handled by this discord package!",
   "main": "index.js",
   "scripts": {
