@@ -1,0 +1,20 @@
+{
+  "name": "discord-cmd-handler",
+  "version": "1.0.0",
+  "description": "Allow all your discord bots commands to be handled by this discord package!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idk-pixel/discord-cmd-handler.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/idk-pixel/discord-cmd-handler/issues"
+  },
+  "homepage": "https://github.com/idk-pixel/discord-cmd-handler#readme"
+}
