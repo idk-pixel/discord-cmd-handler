@@ -1,6 +1,6 @@
 # discord-cmd-handler
 ### Installation
-`npm install -D discord-cmd-handler`
+`npm install discord-cmd-handler`
 ### Documentation - Notice this is beta software.
 
 ### To Do
